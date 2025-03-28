@@ -75,5 +75,5 @@
 
 - [Refactoring Guru](https://refactoring.guru/design-patterns)
 - [SourceMaking](https://sourcemaking.com/design_patterns)
-- [Wikipedia](https://de.wikipedia.org/wiki/Entwurfsmuster_(Softwareentwicklung))
+- [Wikipedia](https://de.wikipedia.org/wiki/Entwurfsmuster)
 
