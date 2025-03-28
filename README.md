@@ -70,3 +70,10 @@
 | **Interface Bloat** | Übermäßig große Interfaces mit zu vielen Methoden. | Bei dem Versuch, zu generische Komponenten zu bauen. | **Adapter**, **Facade**, **Composite** |
 | **Sequential Coupling** | Methoden müssen in einer bestimmten Reihenfolge aufgerufen werden. | Bei komplexen Initialisierungsabläufen. | **Builder**, **Template Method**, **State** |
 | **Circular Dependencies** | Komponenten, die gegenseitig voneinander abhängen. | Bei unklaren Verantwortlichkeiten und mangelnder Modularisierung. | **Mediator**, **Observer**, **Facade** |
+
+# Ressourcen
+
+- [Refactoring Guru](https://refactoring.guru/design-patterns)
+- [SourceMaking](https://sourcemaking.com/design_patterns)
+- [Wikipedia](https://de.wikipedia.org/wiki/Entwurfsmuster_(Softwareentwicklung))
+
